@@ -10,5 +10,5 @@ Script di raccolta automatizzata dei dati sulle principali collezioni NFT da Ope
 
 
 Analisi statistica e correlazioni di Spearman sul dataset profumi, esplorando relazioni tra rating, voti e note olfattive per identificare pattern nel mercato dei profumi.
-[![CERTIFICATO CORSO ETL](https://binatomy.com/corsoETL/camilla-aria-tassara)
+[![CERTIFICATO CORSO ETL](https://img.shields.io/badge/CERTIFICATO-CORSO%20ETL-003366?style=plastic)](https://binatomy.com/corsoETL/camilla-aria-tassara)
 [![BINATOMY STUDENT](https://img.shields.io/badge/BINATOMY-STUDENT-2E8B57?style=plastic)](https://binatomy.com)
